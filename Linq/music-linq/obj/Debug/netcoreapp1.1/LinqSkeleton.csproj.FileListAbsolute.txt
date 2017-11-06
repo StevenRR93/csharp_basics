@@ -1,0 +1,10 @@
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.deps.json
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.json
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.dev.json
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.dll
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\bin\Debug\netcoreapp1.1\LinqSkeleton.pdb
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.csproj.CoreCompileInputs.cache
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfoInputs.cache
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfo.cs
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.dll
+c:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Linq\music-linq\obj\Debug\netcoreapp1.1\LinqSkeleton.pdb

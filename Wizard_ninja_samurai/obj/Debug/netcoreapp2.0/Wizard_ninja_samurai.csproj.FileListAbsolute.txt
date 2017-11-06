@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\bin\Debug\netcoreapp2.0\Wizard_ninja_samurai.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\bin\Debug\netcoreapp2.0\Wizard_ninja_samurai.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\bin\Debug\netcoreapp2.0\Wizard_ninja_samurai.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\bin\Debug\netcoreapp2.0\Wizard_ninja_samurai.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\bin\Debug\netcoreapp2.0\Wizard_ninja_samurai.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\obj\Debug\netcoreapp2.0\Wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\obj\Debug\netcoreapp2.0\Wizard_ninja_samurai.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\obj\Debug\netcoreapp2.0\Wizard_ninja_samurai.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\obj\Debug\netcoreapp2.0\Wizard_ninja_samurai.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\Wizard_ninja_samurai\obj\Debug\netcoreapp2.0\Wizard_ninja_samurai.pdb

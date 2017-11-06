@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\bin\Debug\netcoreapp2.0\basic_13.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\bin\Debug\netcoreapp2.0\basic_13.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\bin\Debug\netcoreapp2.0\basic_13.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\bin\Debug\netcoreapp2.0\basic_13.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\bin\Debug\netcoreapp2.0\basic_13.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\obj\Debug\netcoreapp2.0\basic_13.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\obj\Debug\netcoreapp2.0\basic_13.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\obj\Debug\netcoreapp2.0\basic_13.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\obj\Debug\netcoreapp2.0\basic_13.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\basic_13\obj\Debug\netcoreapp2.0\basic_13.pdb

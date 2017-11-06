@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\bin\Debug\netcoreapp2.0\collections.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\bin\Debug\netcoreapp2.0\collections.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\bin\Debug\netcoreapp2.0\collections.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\bin\Debug\netcoreapp2.0\collections.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\bin\Debug\netcoreapp2.0\collections.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\obj\Debug\netcoreapp2.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\obj\Debug\netcoreapp2.0\collections.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\obj\Debug\netcoreapp2.0\collections.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\obj\Debug\netcoreapp2.0\collections.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\collections\obj\Debug\netcoreapp2.0\collections.pdb

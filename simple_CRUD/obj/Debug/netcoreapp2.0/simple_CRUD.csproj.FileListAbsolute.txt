@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\bin\Debug\netcoreapp2.0\simple_CRUD.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\bin\Debug\netcoreapp2.0\simple_CRUD.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\bin\Debug\netcoreapp2.0\simple_CRUD.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\bin\Debug\netcoreapp2.0\simple_CRUD.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\bin\Debug\netcoreapp2.0\simple_CRUD.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\obj\Debug\netcoreapp2.0\simple_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\obj\Debug\netcoreapp2.0\simple_CRUD.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\obj\Debug\netcoreapp2.0\simple_CRUD.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\obj\Debug\netcoreapp2.0\simple_CRUD.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\simple_CRUD\obj\Debug\netcoreapp2.0\simple_CRUD.pdb

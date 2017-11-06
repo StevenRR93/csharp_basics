@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\bin\Debug\netcoreapp2.0\boxing_unboxing.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\bin\Debug\netcoreapp2.0\boxing_unboxing.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\bin\Debug\netcoreapp2.0\boxing_unboxing.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\bin\Debug\netcoreapp2.0\boxing_unboxing.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\bin\Debug\netcoreapp2.0\boxing_unboxing.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\obj\Debug\netcoreapp2.0\boxing_unboxing.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\obj\Debug\netcoreapp2.0\boxing_unboxing.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\obj\Debug\netcoreapp2.0\boxing_unboxing.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\obj\Debug\netcoreapp2.0\boxing_unboxing.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\boxing_unboxing\obj\Debug\netcoreapp2.0\boxing_unboxing.pdb

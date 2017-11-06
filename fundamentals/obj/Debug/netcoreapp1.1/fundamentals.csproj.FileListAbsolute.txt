@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\bin\Debug\netcoreapp1.1\fundamentals.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\bin\Debug\netcoreapp1.1\fundamentals.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\bin\Debug\netcoreapp1.1\fundamentals.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\obj\Debug\netcoreapp1.1\fundamentals.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\obj\Debug\netcoreapp1.1\fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\obj\Debug\netcoreapp1.1\fundamentals.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\bin\Debug\netcoreapp1.1\fundamentals.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\bin\Debug\netcoreapp1.1\fundamentals.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\obj\Debug\netcoreapp1.1\fundamentals.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\c_sharp_basics\fundamentals\obj\Debug\netcoreapp1.1\fundamentals.pdb
